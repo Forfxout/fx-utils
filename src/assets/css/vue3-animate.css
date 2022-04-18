@@ -1,0 +1,9 @@
+/* Fade Transition */
+.fade-enter-active {
+  animation: fadeIn 0.1s ease;
+}
+
+.fade-leave-active {
+  animation: fadeOut 0.2s ease;
+}
+
